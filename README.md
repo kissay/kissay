@@ -10,6 +10,15 @@
 
 ---
 
+# Hi, I'm XXX 👋
+<img src="https://avatars.githubusercontent.com/u/你的ID?v=4" width="120" style="border-radius:50%" />
+
+### 关于我
+- 👨‍💻 全栈开发者 / AI 爱好者
+- 🌱 正在学习：大模型应用开发
+- 📫 联系我：[邮箱](mailto:xxx@xx.com) | [知乎](链接) | [公众号](二维码/链接)
+
+
 ### 作品 Projects
 </div>
 
