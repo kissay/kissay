@@ -22,15 +22,15 @@
 - 💬 交流：欢迎一起探讨 AI 与开发
 
 ### GitHub 数据
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=andysay&show_icons=true&theme=transparent&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andysay&layout=compact&theme=transparent&hide_border=true)
 
 ### 技能
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-![Visitor](https://komarev.com/ghpvc/?username=你的用户名&color=blue)
+![Visitor](https://komarev.com/ghpvc/?username=andysay&color=blue)
 
 ### 作品 Projects
 </div>
