@@ -10,29 +10,10 @@
 
 ---
 
-# Hi there! 👋 I'm XXX
-<img src="https://avatars.githubusercontent.com/u/你的ID?v=4" width="130" style="border-radius:50%" />
-
-![Typing](https://readme-typing-svg.herokuapp.com?font=微软雅黑&size=24&lines=AI+Developer;本地大模型探索者;终身学习者)
-
-### 关于我
-- 🔭 专注：LLM 应用、本地部署、API 开发
-- 🌱 技术栈：Python / PyTorch / FastAPI / vLLM
-- 📍 坐标：深圳
-- 💬 交流：欢迎一起探讨 AI 与开发
-
-### GitHub 数据
-![Stats](https://github-readme-stats.vercel.app/api?username=andysay&show_icons=true&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andysay&layout=compact&theme=transparent&hide_border=true)
-
-### 技能
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-![Visitor](https://komarev.com/ghpvc/?username=andysay&color=blue)
 
 ### 作品 Projects
+![Visitor](https://komarev.com/ghpvc/?username=andysay&color=blue)
+
 </div>
 
 - [项目一名称](项目一GitHub仓库链接)：简短一句话介绍
